@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036072055379",
+    "project_id": "wingwomensafetyapp",
+    "storage_bucket": "wingwomensafetyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036072055379:android:90c4a6fdd412e6ea210ca6",
+        "android_client_info": {
+          "package_name": "com.example.Wingwomensafetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjtbg_7P0SLeHdN9eAk2VuKuN4EtV0LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
